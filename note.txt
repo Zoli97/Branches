@@ -1,6 +1,0 @@
-Branch
-
-better features 
-when create a new repo what i doing is creating the master branch as well(commiting only in the master)
-dont try new features on master branch.
-create some iso env try the new feature and you like it we can merge this into master branch.
